@@ -38,7 +38,7 @@ In der Softwareentwicklung heißt das: Ich kenne Git und Programmiersprachen, ha
 - Prozedurale und objektorientierte Programmierung verstehen
 - Grundlagen der funktionalen Programmierung kennenlernen
 - Unterschied zwischen typisierten und typenlosen Sprachen verstehen
-- Prinzipien wie SOLID, KISS und YAGNI kennenlernen
+- Prinzipien wie SOLID, STUPID, KISS und YAGNI kennenlernen
 - Conway's Game of Life mit KI umsetzen (C, Python, Java)
 - Unterschied zwischen prozeduraler und objektorientierter Logik praktisch anwenden
 - Polymorphie verstehen und einsetzen
