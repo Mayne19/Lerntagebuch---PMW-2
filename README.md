@@ -53,4 +53,4 @@ Ich habe verstanden, dass Programmieren eine Denkweise ist. Besonders wichtig wa
 
 2. Die prozedurale Programmierung nutzt Funktionen, die nacheinander ausgeführt werden. Die objektorientierte Programmierung arbeitet mit Klassen und Objekten und nutzt Konzepte wie Kapselung, Vererbung und Polymorphie.
 
-3. Typisierte Sprachen prüfen Datentypen vor der Ausführung, während typenlose Sprachen dies erst zur Laufzeit tun. Prinzipien wie SOLID und KISS helfen, den Code einfach und wartbar zu halten.
+3. Typisierte Sprachen prüfen Datentypen vor der Ausführung, während typenlose Sprachen dies erst zur Laufzeit tun. Prinzipien der Programmierung helfen, den Code einfach und wartbar zu halten.
