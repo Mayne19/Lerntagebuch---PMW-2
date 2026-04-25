@@ -27,3 +27,30 @@ Das Wichtigste, das mich angesprochen hat, ist dass ein Profi mit Absicht arbeit
 - Prinzipien 
 
 In der Softwareentwicklung heißt das: Ich kenne Git und Programmiersprachen, habe eine IDE und GitLab, und arbeite nach Prinzipien wie Clean Code. Das ist nicht zufällig sondern absichtlich.
+
+
+## Woche 2026-04-20
+
+### Lernziel
+
+- Programmierparadigmen verstehen und unterscheiden
+- Imperative und deklarative Programmierung vergleichen
+- Prozedurale und objektorientierte Programmierung verstehen
+- Grundlagen der funktionalen Programmierung kennenlernen
+- Unterschied zwischen typisierten und typenlosen Sprachen verstehen
+- Prinzipien wie SOLID, KISS und YAGNI kennenlernen
+- Conway's Game of Life mit KI umsetzen (C, Python, Java)
+- Unterschied zwischen prozeduraler und objektorientierter Logik praktisch anwenden
+- Polymorphie verstehen und einsetzen
+
+### Erkenntnis
+
+Ich habe verstanden, dass Programmieren eine Denkweise ist. Besonders wichtig war für mich der Unterschied zwischen imperativer und deklarativer Programmierung. Außerdem habe ich gesehen, dass gute Software nicht zufällig entsteht, sondern auf klaren Prinzipien wie SOLID und KISS basiert.
+
+### Wiederholung
+
+1. Ein Programmierparadigma ist eine grundlegende Denkweise beim Programmieren. Die imperative Programmierung arbeitet Schritt für Schritt mit Befehlen, während die deklarative nur beschreibt, was erreicht werden soll.
+
+2. Die prozedurale Programmierung nutzt Funktionen, die nacheinander ausgeführt werden. Die objektorientierte Programmierung arbeitet mit Klassen und Objekten und nutzt Konzepte wie Kapselung, Vererbung und Polymorphie.
+
+3. Typisierte Sprachen prüfen Datentypen vor der Ausführung, während typenlose Sprachen dies erst zur Laufzeit tun. Prinzipien wie SOLID und KISS helfen, den Code einfach und wartbar zu halten.
