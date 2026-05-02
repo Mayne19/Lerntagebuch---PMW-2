@@ -61,13 +61,15 @@ Ich habe verstanden, dass Programmieren eine Denkweise ist. Besonders wichtig wa
 
 ### Lernziel
 
-- Verständnis von Debugging in einer IDE (Eclipse)  
-- Einsatz von Breakpoints zur Analyse eines Programms  
-- Beobachtung von Variablen während der Ausführung  
+- Verständnis von Debugging und Arbeiten mit Breakpoints in Eclipse  
+- Beobachtung von Variablen während der Programmausführung  
 - Unterschied zwischen funktionierendem und fehlerhaftem Code erkennen  
-- Analyse von Programmlogik mit Schleifen und Rekursion  
-- Verwendung des Modulo-Operators (%) zur Prüfung von Teilbarkeit  
-- Vergleich von zwei Programmen zur Primzahlprüfung (Übung1 und Übung2)  
+- Grundlagen von Containern verstehen (Docker)  
+- Unterschied zwischen virtuellen Maschinen und Containern kennen  
+- Rolle von Kubernetes zur Verwaltung von Containern verstehen  
+- Verständnis von Design Patterns als Lösungen für wiederkehrende Probleme  
+- Überblick über verschiedene Arten von Design Patterns  
+- Anwendung der Inhalte in den Übungen (Analyse von Programmen und Fehlersuche)
 
 
 ### Erkenntnis
