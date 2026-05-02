@@ -54,3 +54,31 @@ Ich habe verstanden, dass Programmieren eine Denkweise ist. Besonders wichtig wa
 2. Die prozedurale Programmierung nutzt Funktionen, die nacheinander ausgeführt werden. Die objektorientierte Programmierung arbeitet mit Klassen und Objekten und nutzt Konzepte wie Kapselung, Vererbung und Polymorphie.
 
 3. Typisierte Sprachen prüfen Datentypen vor der Ausführung, während typenlose Sprachen dies erst zur Laufzeit tun. Prinzipien der Programmierung helfen, den Code einfach und wartbar zu halten.
+
+
+
+## Woche 2026-04-27
+
+### Lernziel
+
+- Verständnis von Debugging in einer IDE (Eclipse)  
+- Einsatz von Breakpoints zur Analyse eines Programms  
+- Beobachtung von Variablen während der Ausführung  
+- Unterschied zwischen funktionierendem und fehlerhaftem Code erkennen  
+- Analyse von Programmlogik mit Schleifen und Rekursion  
+- Verwendung des Modulo-Operators (%) zur Prüfung von Teilbarkeit  
+- Vergleich von zwei Programmen zur Primzahlprüfung (Übung1 und Übung2)  
+
+
+### Erkenntnis
+
+Ich fand besonders interessant, wie Debugging funktioniert. Vorher habe ich Programme einfach gestartet und nur das Ergebnis gesehen. Mit Breakpoints konnte ich Schritt für Schritt verfolgen, was passiert.
+
+Besonders bei Übung2 war das wichtig. Das Programm hatte keinen Fehler in der Syntax, aber das Ergebnis war falsch. Durch Debugging konnte ich sehen, dass sich die Variable verändert und dadurch ein falsches Ergebnis entsteht.
+
+Das hat mir gezeigt, dass man Programme nicht nur schreiben, sondern auch richtig analysieren muss.
+
+
+### Wiederholung
+
+Ein **Container** ist eine isolierte Umgebung, in der ein Programm läuft. Er enthält das Programm und alle notwendigen Abhängigkeiten. Dadurch funktioniert das Programm auf verschiedenen Systemen gleich. Container sind leicht und starten schnell. Sie werden oft mit Docker erstellt und genutzt.
