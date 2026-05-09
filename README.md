@@ -84,3 +84,26 @@ Das hat mir gezeigt, dass man Programme nicht nur schreiben, sondern auch richti
 ### Wiederholung
 
 Ein **Container** ist eine isolierte Umgebung, in der ein Programm läuft. Er enthält das Programm und alle notwendigen Abhängigkeiten. Dadurch funktioniert das Programm auf verschiedenen Systemen gleich. Container sind leicht und starten schnell. Sie werden oft mit Docker erstellt und genutzt.
+
+
+## Woche 2026-05-04
+
+### Lernziel
+
+- Grundlagen von Git als Source-Code-Management-System
+- Vorteile von Git gegenüber einfachen Kopien oder ZIP-Archiven
+- Unterschied zwischen zentralisiertem und verteiltem Arbeiten
+- Grundkonzept von Git: Working Directory, Staging Area, Repository, Commits, Commit-ID und Branches
+- Praktische Arbeit mit einem lokalen Git-Repository
+- Erstellen und Bearbeiten einer Textdatei
+- Vorbereiten und Speichern von Änderungen mit Staging Area und Commit
+- Anzeigen und Vergleichen von Änderungen
+- Zurücksetzen von Änderungen im Working Directory, in der Staging Area und auf den letzten Commit-Stand
+
+### Erkenntnis
+
+Besonders interessant fand ich die Staging Area, weil sie zeigt, dass ein Commit nicht automatisch alle Änderungen speichert. Man kann vorher genau auswählen, welche Änderungen in den nächsten Commit übernommen werden sollen. Dadurch arbeitet man kontrollierter und kann saubere, kleinere Commits erstellen.
+
+### Wiederholung
+
+Die **Staging Area** ist ein Zwischenbereich zwischen dem Working Directory und dem Repository. Im Working Directory werden Dateien normal bearbeitet. Mit `git add` werden ausgewählte Änderungen in die Staging Area übernommen. Erst mit `git commit` werden diese vorbereiteten Änderungen dauerhaft im Repository gespeichert.
