@@ -107,3 +107,31 @@ Besonders interessant fand ich die Staging Area, weil sie zeigt, dass ein Commit
 ### Wiederholung
 
 Die **Staging Area** ist ein Zwischenbereich zwischen dem Working Directory und dem Repository. Im Working Directory werden Dateien normal bearbeitet. Mit `git add` werden ausgewählte Änderungen in die Staging Area übernommen. Erst mit `git commit` werden diese vorbereiteten Änderungen dauerhaft im Repository gespeichert.
+
+
+## Woche 2026-05-11
+
+### Lernziel
+
+- Kooperation im Softwareentwicklungsprozess
+- Zusammenarbeit mehrerer Entwickler in größeren Softwareprojekten
+- Zusammenführen einzelner Arbeitsergebnisse
+- Technische und persönliche Konflikte bei der Integration
+- Vorteile von Continuous Integration
+- Bestandteile eines Softwareentwicklungsprozesses
+- Abhängigkeitenverwaltung und semantische Versionierung
+- Rolle eines Source-Code-Management-Systems
+- Build-Prozess mit Kompilierung, Tests und Bereitstellung
+- Bedeutung und Grenzen automatisierter Tests
+- Arbeit mit Remote Repositories
+- Verbindung zwischen lokalem Repository und Remote Repository
+- Push, Pull, Fetch, Clone und Tracking Branches
+- Unterschied zwischen gemeinsamem Remote Repository und privatem Fork
+
+### Erkenntnis
+
+Besonders interessant fand ich, dass Zusammenarbeit in der Softwareentwicklung nicht nur bedeutet, Code zu schreiben. Wenn mehrere Entwickler an einem Projekt arbeiten, müssen Änderungen regelmäßig zusammengeführt, getestet und bereitgestellt werden. Dadurch wird klar, warum SCM, Remote Repositories und Continuous Integration wichtig sind.
+
+### Wiederholung
+
+Ein **Remote Repository** ist ein Git-Repository, das nicht nur lokal auf dem eigenen Rechner liegt, sondern als gemeinsamer Speicherort für ein Projekt verwendet wird. Entwickler können ihre Änderungen dorthin hochladen und Änderungen von anderen Entwicklern herunterladen. Dadurch wird die Zusammenarbeit im Team einfacher und der aktuelle Stand des Projekts kann zentral verfügbar gemacht werden.
