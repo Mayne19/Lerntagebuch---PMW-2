@@ -135,3 +135,28 @@ Besonders interessant fand ich, dass Zusammenarbeit in der Softwareentwicklung n
 ### Wiederholung
 
 Ein **Remote Repository** ist ein Git-Repository, das nicht nur lokal auf dem eigenen Rechner liegt, sondern als gemeinsamer Speicherort für ein Projekt verwendet wird. Entwickler können ihre Änderungen dorthin hochladen und Änderungen von anderen Entwicklern herunterladen. Dadurch wird die Zusammenarbeit im Team einfacher und der aktuelle Stand des Projekts kann zentral verfügbar gemacht werden.
+
+
+## Woche 2026-05-18
+
+### Lernziel
+
+- Grundlagen des Projektmanagements
+- Unterschied zwischen Regelprozess, Linienmaßnahme, Vorhaben und Projekt
+- Merkmale eines Projekts: Ziel, Zeitraum, Ressourcen, Komplexität und Risiko
+- Projektmanagement als Planung, Organisation, Durchführung und Kontrolle
+- Zusammenarbeit von Menschen als wichtiger Teil des Projektmanagements
+- Rollen im Projektmanagement: Auftraggeber, Projektleiter, Projektmitarbeiter und Stakeholder
+- Projektmanagement-Modelle: Wasserfallmodell, V-Modell und agile Modelle
+- Projektmanagement-Techniken: Kanban, Burn-Down-Chart und Scrum
+- Aufwandsschätzung mit Story Points
+- Schätzverfahren wie Drei-Werte-Weg, historischer Vergleich und Planning Poker
+- Klassische und agile Projektdokumentation
+
+### Erkenntnis
+
+Besonders interessant fand ich, dass Projektmanagement nicht nur aus Planung und Kontrolle besteht. Es geht auch stark um die Zusammenarbeit von Menschen. Aufgaben müssen verteilt werden, Informationen müssen klar sein und mögliche Konflikte sollten früh erkannt werden. Dadurch wird deutlich, dass gute Kommunikation für ein Projekt genauso wichtig ist wie die technische Arbeit.
+
+### Wiederholung
+
+**Planning Poker** ist eine Methode zur Aufwandsschätzung in agilen Projekten. Jedes Teammitglied schätzt den Aufwand einer Aufgabe zuerst allein mit speziellen Karten. Danach werden die Karten gleichzeitig gezeigt. Sehr niedrige oder sehr hohe Schätzungen müssen begründet werden. So kann das Team gemeinsam eine nachvollziehbare Einschätzung finden.
