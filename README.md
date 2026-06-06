@@ -160,3 +160,30 @@ Besonders interessant fand ich, dass Projektmanagement nicht nur aus Planung und
 ### Wiederholung
 
 **Planning Poker** ist eine Methode zur Aufwandsschätzung in agilen Projekten. Jedes Teammitglied schätzt den Aufwand einer Aufgabe zuerst allein mit speziellen Karten. Danach werden die Karten gleichzeitig gezeigt. Sehr niedrige oder sehr hohe Schätzungen müssen begründet werden. So kann das Team gemeinsam eine nachvollziehbare Einschätzung finden.
+
+
+## Woche 2026-06-01
+
+### Lernziel
+
+- Grundlagen des Softwaretestens
+- Motivation für Tests: Fehler erkennen und unerwünschtes Verhalten vermeiden
+- Begriffe aus dem Testbereich: Qualitätssicherung, Testmanagement, Testumgebung und Test
+- Unterschied zwischen Error, Defect und Failure
+- Arten von Fehlern: latente, maskierte und kaskadierte Fehler
+- Arten von Tests: manuelle Tests, automatisierte Tests, statische Codeanalyse und dynamische Tests
+- Bestandteile eines Tests: Testfall, Testdaten, Testobjekt, Testumgebung, Testziel und Soll-Ist-Vergleich
+- Ziele von Tests: Fehler aufzeigen, Qualität erfassen, Vertrauen erhöhen und Grenzen ermitteln
+- Testebenen und Bedeutung der Testpyramide
+- Ablauf des Testprozesses: Planung, Analyse, Design, Testausführung und Testnachbereitung
+- Definition konkreter Testfälle für einfache Softwarefunktionen
+- Einordnung veröffentlichter Softwarefehler nach Fehlerarten
+- Psychologische Aspekte beim Testen, zum Beispiel Betriebsblindheit und gegenseitiges Testen
+
+### Erkenntnis
+
+Besonders interessant fand ich, dass ein Test nicht nur bedeutet, ein Programm kurz auszuprobieren. Ein guter Testfall braucht ein klares Testziel, passende Testdaten, ein Testobjekt, eine Testumgebung und einen Soll-Ist-Vergleich. Dadurch kann man gezielt prüfen, ob eine Software das erwartete Verhalten zeigt. Außerdem wurde deutlich, dass Tests Fehler nicht vollständig ausschließen, aber helfen, Risiken zu reduzieren und Vertrauen in die Software zu erhöhen.
+
+### Wiederholung
+  
+Ein **Testfall:** beschreibt eine konkrete Situation, mit der geprüft wird, ob eine Software wie erwartet funktioniert. Dazu gehören bestimmte Eingaben, ein erwartetes Ergebnis und der Vergleich zwischen Soll-Wert und Ist-Wert. Ein Testfall hilft also dabei, das Verhalten eines Programms gezielt und nachvollziehbar zu überprüfen.
