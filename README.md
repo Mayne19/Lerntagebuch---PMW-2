@@ -187,3 +187,29 @@ Besonders interessant fand ich, dass ein Test nicht nur bedeutet, ein Programm k
 ### Wiederholung
   
 Ein **Testfall:** beschreibt eine konkrete Situation, mit der geprüft wird, ob eine Software wie erwartet funktioniert. Dazu gehören bestimmte Eingaben, ein erwartetes Ergebnis und der Vergleich zwischen Soll-Wert und Ist-Wert. Ein Testfall hilft also dabei, das Verhalten eines Programms gezielt und nachvollziehbar zu überprüfen.
+
+## Woche 2026-06-08
+
+### Lernziel
+
+- Grundlagen der Testautomatisierung
+- Probleme manueller Tests, zum Beispiel hoher Aufwand, fehlende Wiederholbarkeit und nachlassende Aufmerksamkeit
+- Gründe für automatisierte Tests
+- Zusammenhang zwischen automatisierten Tests und Qualitätskosten
+- Kriterien für Tests, die sich gut automatisieren lassen
+- Unterschied zwischen UnitTests, Modultests und ApplicationTests
+- Bedeutung von UnitTests als ausführbare Dokumentation
+- Eigenschaften guter UnitTests: schnell, unabhängig, wiederholbar, selbstauswertend, zeitnah, lesbar, vertrauenswürdig und wartbar
+- Testbarkeit von produktivem Code
+- Einfluss von Clean Code und SOLID-Prinzipien auf gute Tests
+- Ersetzen von Abhängigkeiten durch Test-Doubles
+- Arten von Test-Doubles: Stub, Fake und Mock
+- Praktische Umsetzung automatisierter Tests in Java mit Maven und JUnit
+
+### Erkenntnis
+
+Besonders interessant fand ich, dass UnitTests nicht einfach nur Code testen, sondern das von außen beobachtbare gewünschte Verhalten einer Unit überprüfen. Ein guter UnitTest sollte schnell, unabhängig und wiederholbar sein. Dadurch kann er regelmäßig ausgeführt werden und hilft dabei, Fehler früh zu erkennen. In der Übung wurde außerdem deutlich, dass automatisierte Tests nicht nur Theorie sind, sondern direkt in einem Projekt geschrieben, ausgeführt und versioniert werden können.
+
+### Wiederholung
+  
+Ein **UnitTest** überprüft eine einzelne Unit, zum Beispiel eine Methode oder eine kleine Funktionseinheit. Dabei wird geprüft, ob die Unit bei bestimmten Eingaben das erwartete Verhalten zeigt. Ein guter UnitTest ist unabhängig von anderen Tests, liefert ein eindeutiges Ergebnis und kann häufig automatisch ausgeführt werden.
