@@ -213,3 +213,27 @@ Besonders interessant fand ich, dass UnitTests nicht einfach nur Code testen, so
 ### Wiederholung
   
 Ein **UnitTest** überprüft eine einzelne Unit, zum Beispiel eine Methode oder eine kleine Funktionseinheit. Dabei wird geprüft, ob die Unit bei bestimmten Eingaben das erwartete Verhalten zeigt. Ein guter UnitTest ist unabhängig von anderen Tests, liefert ein eindeutiges Ergebnis und kann häufig automatisch ausgeführt werden.
+
+## Woche 2026-06-15
+
+### Lernziel
+
+- Grundlagen von Test Driven Development
+- Zusammenhang zwischen automatisierten Tests und Qualitätskosten
+- Bedeutung von UnitTests als häufige Form automatisierter Tests
+- Eigenschaften guter UnitTests: schnell, unabhängig, wiederholbar, selbstauswertend, zeitnah, lesbar, vertrauenswürdig und wartbar
+- Unterschied zwischen Code First, Test First und Test Driven Development
+- Testabdeckung und Anforderungsabdeckung
+- Inkrementelle Entwicklung in kleinen Schritten
+- TDD-Micro-Cycle: neuer Test, Transformation und Refactoring
+- Schreiben eines Tests, der zunächst fehlschlägt
+- Schreiben von gerade genug Produktivcode, damit der Test erfüllt wird
+- Verbesserung von Produktionscode und Testcode ohne neue Funktionalität hinzuzufügen
+
+### Erkenntnis
+
+Besonders interessant fand ich den TDD-Micro-Cycle, weil dabei nicht zuerst die komplette Lösung programmiert wird. Stattdessen wird zuerst ein kleiner Test geschrieben, der fehlschlägt. Danach wird nur so viel Produktivcode geschrieben, dass dieser Test erfüllt wird. Anschließend wird der Code verbessert, ohne die Funktionalität zu verändern. Dadurch wird die Entwicklung kontrollierter und die Anforderungen werden Schritt für Schritt überprüft.
+
+### Wiederholung
+
+**Test Driven Development** eine Vorgehensweise, bei der Tests und Produktivcode eng zusammen entstehen. Zuerst wird ein Test für eine neue Anforderung geschrieben. Danach wird der notwendige Code implementiert, damit der Test erfolgreich ist. Zum Schluss wird der Code durch Refactoring verbessert, ohne dass bestehende Tests fehlschlagen.
