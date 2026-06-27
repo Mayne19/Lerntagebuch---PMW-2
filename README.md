@@ -237,3 +237,27 @@ Besonders interessant fand ich den TDD-Micro-Cycle, weil dabei nicht zuerst die 
 ### Wiederholung
 
 **Test Driven Development** eine Vorgehensweise, bei der Tests und Produktivcode eng zusammen entstehen. Zuerst wird ein Test für eine neue Anforderung geschrieben. Danach wird der notwendige Code implementiert, damit der Test erfolgreich ist. Zum Schluss wird der Code durch Refactoring verbessert, ohne dass bestehende Tests fehlschlagen.
+
+## Woche 2026-06-22
+
+### Lernziel
+
+- Grundlagen von Continuous Integration
+- Bedeutung von CI im Softwareentwicklungsprozess
+- Zusammenarbeit mehrerer Entwickler in größeren Softwareprojekten
+- Zusammenführen einzelner Arbeitsergebnisse
+- Verringerung von technischem und organisatorischem Aufwand durch CI-Systeme
+- Aufbau eines CI/CD-Systems
+- Rolle von Entwicklungsumgebung, SCM, Abhängigkeitenverwaltung, Build-Werkzeug und CI-Server
+- Ablauf des CI-Prozesses: Checkin Change, Fetch Change, Build, Test, Ergebnisauswertung und Benachrichtigung
+- Voraussetzungen vor dem Veröffentlichen einer Änderung
+- Bedeutung automatisierter Tests im CI-Prozess
+- Grenzen automatisierter Tests
+
+### Erkenntnis
+
+Besonders interessant fand ich, dass Continuous Integration nicht nur bedeutet, Code automatisch zu testen. Ein CI-System überwacht das Source-Code-Management-System, integriert Änderungen, startet den Build-Prozess, führt Tests aus und meldet die Ergebnisse zurück. Dadurch können Fehler früher erkannt werden und der gemeinsame Entwicklungsstand bleibt stabiler.
+
+### Wiederholung
+
+**Continuous Integration** ist ein Prozess, bei dem Änderungen am Quellcode regelmäßig in ein gemeinsames System integriert werden. Nach einer Änderung wird automatisch geprüft, ob der Code kompiliert, ob Tests erfolgreich laufen und ob das Projekt weiterhin in einem lieferbaren Zustand ist. Dadurch wird die Zusammenarbeit im Team sicherer und strukturierter.
